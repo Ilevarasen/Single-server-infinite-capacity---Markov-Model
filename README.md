@@ -30,6 +30,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ### Program
 
  NAME:ILEVARASEN.S
+
  REG NO:24900688
 
 ![Screenshot 2024-12-20 133708](https://github.com/user-attachments/assets/df3c246c-abed-4705-a007-f5b212540f19)
